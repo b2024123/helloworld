@@ -8,6 +8,6 @@
 	<body>
 		This is my new index.gsp
 
-		<g:link controller='helloworld' action='index'>hello world controller</g:link>
+		<g:link controller=helloworld action=index>hello world controller</g:link>
 	</body>
 </html>
